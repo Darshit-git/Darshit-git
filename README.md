@@ -33,7 +33,7 @@
 ### 🎓 Education
 
 **B.Tech. in Computer Science and Engineering**  
-*IIT Guwahati (2018 - 2024)*
+*IIT Guwahati*
 
 ### 🚀 Featured Projects
 
